@@ -8,8 +8,6 @@ This Text Prediction App uses the relationship between words to produce a predic
 
 For example, it is very likely that the phrase 'New York' will be followed by the word 'city'. So, we want the App to produce 'city' when given 'New York'.
 
-The data used in this model can be downloaded [here](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip).
-
 ## Prediction model
 The data used in this model can be downloaded [here](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip). 
 
