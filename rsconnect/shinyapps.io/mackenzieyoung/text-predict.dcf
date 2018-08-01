@@ -1,0 +1,13 @@
+name: text-predict
+title: text-predict
+username:
+account: mackenzieyoung
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 392659
+bundleId: 1510003
+url: https://mackenzieyoung.shinyapps.io/text-predict/
+when: 1533055260.29046
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: profanity.txt|Rpresentation/filtered_data.RData|Rpresentation/mySlideTemplate.css|Rpresentation/predict1.png|Rpresentation/swiftkey.Rpres
